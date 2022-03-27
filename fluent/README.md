@@ -10,3 +10,4 @@ cd hyperion/fluent
 # schedule job
 sbatch runfluent.sh
 ```
+Note, we are running ANSYS Fluent. Some [docs](https://wiki.rc.usf.edu/index.php/ANSYS).
